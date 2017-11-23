@@ -89,6 +89,12 @@ render(
 
 ```
 
+## TODOs
+
+* Ability to create non-inline styles
+* Create non-functional components with styles
+* Decorate existing non-functional components
+
 ## License
 
 Licensed under MIT
