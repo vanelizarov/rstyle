@@ -2,6 +2,14 @@
 
 Create React components styled with the help of template literals
 
+## Installation
+
+```npm install rstyle```
+
+or
+
+```yarn add rstyle```
+
 ## Usage
 
 `rstyle` uses template literal syntax to create functional React components with inline styles
