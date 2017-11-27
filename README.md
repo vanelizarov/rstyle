@@ -1,5 +1,7 @@
 # rstyle
 
+![rstyle](https://raw.githubusercontent.com/vanelizarov.rstyle/master/logo.svg)
+
 Create React components styled with the help of template literals
 
 ## Installation
