@@ -1,6 +1,6 @@
 # rstyle
 
-![rstyle](https://raw.githubusercontent.com/vanelizarov.rstyle/master/logo.png)
+![rstyle](https://raw.githubusercontent.com/vanelizarov/rstyle/master/logo.png)
 
 Create React components styled with the help of template literals
 
