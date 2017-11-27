@@ -1,6 +1,6 @@
 {
   "name": "rstyle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create React components styled with the help of template literals",
   "main": "lib/index.js",
   "author": {
